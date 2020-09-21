@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Boris Afanasev](https://up.htmlacademy.ru/javascript/21/user/1558117).
-* Наставник: `Неизвестно`.
+* Наставник: `Ксения Толстых`.
 
 ---
 
